@@ -43,9 +43,6 @@
   <a href="https://wa.me/5219221207843">
     <img src="https://img.shields.io/badge/WHATSAPP-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
   </a>
-  <a href="https://github.com/Ossvi1">
-    <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white">
-  </a>
 </p>
 
 <p align="center">Aquí te dejo mis redes sociales por si tienes alguna duda o necesitas ayuda con el proyecto 👆🏻</p>
