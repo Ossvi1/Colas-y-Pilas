@@ -1,0 +1,38 @@
+<!doctype html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <title>Pila - Historial de Apoyos</title>
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+</head>
+<body class="bg-light">
+  <div class="container py-5">
+    <div class="card shadow p-4">
+      <h2 class="text-primary mb-4">Pila: Historial de Apoyos</h2>
+      <form method="post" class="row g-3">
+        <div class="col-md-8">
+          <input type="text" name="apoyo" placeholder="Apoyo recibido" class="form-control" required>
+        </div>
+        <div class="col-md-4 d-grid gap-2 d-md-flex justify-content-md-end">
+          <button name="agregar" class="btn btn-primary me-md-2">Agregar</button>
+          <button name="quitar" class="btn btn-warning">Quitar</button>
+        </div>
+      </form>
+      {% if mensaje %}
+        <div class="alert alert-info mt-3">{{ mensaje }}</div>
+      {% endif %}
+      <hr>
+      <h5>Historial de apoyos:</h5>
+      <ul class="list-group">
+        {% for apoyo in pila %}
+          <li class="list-group-item">{{ apoyo }}</li>
+        {% endfor %}
+        {% if pila|length == 0 %}
+          <li class="list-group-item text-muted">Sin apoyos aún</li>
+        {% endif %}
+      </ul>
+      <a href="/menu" class="btn btn-link mt-3">Volver al menú</a>
+    </div>
+  </div>
+</body>
+</html>
