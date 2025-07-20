@@ -95,7 +95,13 @@
   <img src="https://raw.githubusercontent.com/Ossvi1/Colas-y-Pilas/main/assets/EJEMPLO.gif" alt="Ejemplo de estructura" width="600">
 </p>
 
-Si deseas ver el programa en funcionamiento sin necesidad de descargar ni clonar este repositorio, solo copia y pega el siguiente enlace en tu navegador y espera unos segundos mientras carga la aplicación (se está usando una versión gratuita de hosting, por lo que puede tardar un poco).
+### 🌐 ¿Quieres ver cómo funciona sin descargar nada?
+
+**Si deseas ver el programa en funcionamiento sin necesidad de descargar ni clonar este repositorio, copia y pega el siguiente enlace en tu navegador.**
+
+**Espera unos segundos mientras carga la aplicación, ya que se está utilizando una versión gratuita para correr el programa.**
+
+⚠️ **Ten paciencia mientras carga. El servidor gratuito puede tardar unos segundos en activarse.**
 ```
 https://colas-y-pilas.onrender.com/cola
 ```
