@@ -104,6 +104,6 @@
 ⚠️ **Por favor, espera unos segundos. El servidor gratuito puede tardar en activarse.**
 
 ```
-https://colas-y-pilas.onrender.com/cola
+https://colas-y-pilas.onrender.com/menu
 ```
 
