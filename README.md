@@ -6,7 +6,7 @@
 <p align="center">Proyecto hecho con Flask para gestionar estructuras de datos</p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Ossvi1/Colas-y-Pilas/main/assets/COLAS%20Y%20PLILAS.gif" alt="Colas y Pilas funcionando" width="600">
+<img src="https://raw.githubusercontent.com/Ossvi1/Colas-y-Pilas/main/assets/COLAS%20Y%20PLILAS.gif" alt="Colas y Pilas funcionando" width="400">
 </p>
 
 <p align="center">
