@@ -1,8 +1,12 @@
-<h1 align="center">COLAS Y PILAS - SISTEMA DE APOYOS</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Creepster&size=40&pause=1000&color=FF00FF&center=true&vCenter=true&width=800&lines=COLAS+Y+PILAS+-+SISTEMA+DE+APOYOS" alt="Título animado">
+</p>
+<hr>
+
 <p align="center">Proyecto hecho con Flask para gestionar estructuras de datos</p>
 
 <p align="center">
-  <img src="static/COLAS Y PLILAS.gif" alt="Colas y Pilas funcionando" width="600">
+  <img src="activos/COLAS%20Y%20PLILAS.gif" alt="Colas y Pilas funcionando" width="600">
 </p>
 
 <p align="center">
@@ -71,10 +75,10 @@
    pip install flask
    ```
 
-   Crea una carpeta `static/` en la raíz del proyecto y dentro coloca los siguientes archivos:
+   Asegúrate de tener la carpeta `activos/` en la raíz del proyecto, con los siguientes archivos:
    ```
-   COLAS Y PLILAS.gif
-   EJEMPLO.gif
+   activos/COLAS Y PLILAS.gif
+   activos/EJEMPLO.gif
    ```
 
    Ejecuta la aplicación:
@@ -84,11 +88,13 @@
 
    Luego abre tu navegador y entra a:
    ```
-   [http://localhost:5000]
+   http://localhost:5000
+   ```
+
 ---
 
-<h3 align="center">🎞️ Ejemplo del sistema funcionando</h3>
+<p align="center"><strong>Así tendría que funcionar:</strong></p>
 
 <p align="center">
-  <img src="static/EJEMPLO.gif" alt="Ejemplo de funcionamiento" width="600">
+  <img src="activos/EJEMPLO.gif" alt="Ejemplo de estructura" width="600">
 </p>
