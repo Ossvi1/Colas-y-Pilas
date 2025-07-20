@@ -6,7 +6,7 @@
 <p align="center">Proyecto hecho con Flask para gestionar estructuras de datos</p>
 
 <p align="center">
-  <img src="activos/COLAS%20Y%20PLILAS.gif" alt="Colas y Pilas funcionando" width="600">
+  <img src="https://raw.githubusercontent.com/Ossvi1/Colas-y-Pilas/main/assets/COLAS%20Y%20PLILAS.gif" alt="Colas y Pilas funcionando" width="600">
 </p>
 
 <p align="center">
@@ -75,10 +75,10 @@
    pip install flask
    ```
 
-   Asegúrate de tener la carpeta `activos/` en la raíz del proyecto, con los siguientes archivos:
+   Asegúrate de tener la carpeta `assets/` en la raíz del proyecto, con los siguientes archivos:
    ```
-   activos/COLAS Y PLILAS.gif
-   activos/EJEMPLO.gif
+   assets/COLAS Y PLILAS.gif
+   assets/EJEMPLO.gif
    ```
 
    Ejecuta la aplicación:
@@ -96,5 +96,5 @@
 <p align="center"><strong>Así tendría que funcionar:</strong></p>
 
 <p align="center">
-  <img src="activos/EJEMPLO.gif" alt="Ejemplo de estructura" width="600">
+  <img src="https://raw.githubusercontent.com/Ossvi1/Colas-y-Pilas/main/assets/EJEMPLO.gif" alt="Ejemplo de estructura" width="600">
 </p>
