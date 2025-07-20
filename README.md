@@ -29,6 +29,11 @@
   <img src="https://img.shields.io/badge/AUTHOR-OSWALDO%20MARTÍNEZ%20VIDAÑA-FFD700?style=for-the-badge">
 </p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/GRUPO-11:00%20a%2014:00-00BFFF?style=for-the-badge">
+  <img src="https://img.shields.io/badge/MATERIA-Estructura%20de%20Datos-8A2BE2?style=for-the-badge">
+</p>
+
 <br>
 
 <p align="center">
@@ -92,3 +97,4 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/Ossvi1/Colas-y-Pilas/main/assets/EJEMPLO.gif" alt="Ejemplo de estructura" width="600">
 </p>
+
