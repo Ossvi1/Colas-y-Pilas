@@ -83,7 +83,6 @@
    ```
 
    Luego abre tu navegador y entra a:
-   [http://localhost:5000]
    ```
    [http://localhost:5000]
 ---
