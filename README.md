@@ -75,12 +75,6 @@
    pip install flask
    ```
 
-   Asegúrate de tener la carpeta `assets/` en la raíz del proyecto, con los siguientes archivos:
-   ```
-   assets/COLAS Y PLILAS.gif
-   assets/EJEMPLO.gif
-   ```
-
    Ejecuta la aplicación:
    ```bash
    python app.py
