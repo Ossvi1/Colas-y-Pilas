@@ -55,7 +55,7 @@
    cd Colas-y-Pilas
    ```
 
-2. **Crea y activa un entorno virtual, instala dependencias, coloca los GIFs y ejecuta la app**
+2. **Crea y activa un entorno virtual, instala dependencias y ejecuta la app**
    ```bash
    python -m venv venv
    ```
