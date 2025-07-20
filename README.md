@@ -101,7 +101,7 @@
 
 **Espera unos segundos mientras carga la aplicación, ya que se está utilizando una versión gratuita para correr el programa.**
 
-⚠️ **Ten paciencia mientras carga. El servidor gratuito puede tardar unos segundos en activarse.**
+⚠️ **Por favor, espera unos segundos. El servidor gratuito puede tardar en activarse.**
 
 ```
 https://colas-y-pilas.onrender.com/cola
